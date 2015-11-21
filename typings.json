@@ -1,0 +1,7 @@
+{
+  "name": "concat-stream",
+  "main": "index.d.ts",
+  "ambientDependencies": {
+    "node": "github:DefinitelyTyped/DefinitelyTyped/node/node.d.ts#8cf8164641be73e8f1e652c2a5b967c7210b6729"
+  }
+}
